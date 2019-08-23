@@ -1,0 +1,5 @@
+entity\Customer.class
+entity\Customer_.class
+rest\CustomerResource.class
+facade\CustomerFacade.class
+rest\ApplicationConfig.class

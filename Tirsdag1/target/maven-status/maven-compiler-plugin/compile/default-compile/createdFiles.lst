@@ -1,0 +1,5 @@
+entity\Book_.class
+entity\EntityRunner.class
+facade\BookFacade.class
+facade\FacadeRunner.class
+entity\Book.class
